@@ -12,3 +12,5 @@ Machine learning model is used to detect the hand gesture and the robotic hand m
 The action of the robotic hand using ML Model is available in the link below:
 
 https://youtu.be/EzBIyR7HaM4
+
+Self Fabricated flex sensors using aluminium foil.
